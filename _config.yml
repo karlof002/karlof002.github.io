@@ -1,6 +1,6 @@
 layout: stacked
 style: dark
-repository: karlof002/personal-website
+repository: karlof002/karlof002.github.io
 
 plugins:
   - jekyll-octicons
